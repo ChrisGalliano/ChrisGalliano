@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👋 Hi there! I'm Christian, a Senior PHP developer (Team Lead) with 9+ years of experience in the field, currently working on an [international classified portal](https://www.linkedin.com/company/autoline-market/mycompany/).
+I'm Christian, a Senior PHP developer (Team Lead) with 9+ years of experience in the field, currently working on an [international classified portal](https://www.linkedin.com/company/autoline-market/mycompany/).
 <br>
 To summarize myself: I specialize in PHP, MySQL, Elasticsearch, Redis, and IntelliJ Platform (plugin development). When not coding, my love for travel has led me to over 20 countries 🌍. I'm also into cooking, photography, and experimenting with music.
 
